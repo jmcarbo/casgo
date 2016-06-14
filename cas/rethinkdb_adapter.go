@@ -3,7 +3,7 @@ package cas
 import (
 	"errors"
 	"fmt"
-	r "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/dancannon/gorethink"
+	r "github.com/dancannon/gorethink"
 	"os/exec"
 	"path/filepath"
 )

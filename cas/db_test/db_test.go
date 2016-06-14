@@ -3,7 +3,7 @@ package db_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/t3hmrman/casgo/cas"
+	. "github.com/jmcarbo/casgo/cas"
 )
 
 var DB_TEST_DATA map[string]string = map[string]string{

@@ -1,61 +1,102 @@
 {
-	"ImportPath": "github.com/t3hmrman/casgo",
-	"GoVersion": "go1.5",
+	"ImportPath": "github.com/jmcarbo/casgo",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
 	"Deps": [
 		{
-			"ImportPath": "github.com/GeertJohan/go.rice",
-			"Rev": "ada95a01c963696fb73320ee662195af68be81ae"
+			"ImportPath": "github.com/t3hmrman/casgo/cas",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/Sirupsen/logrus",
-			"Comment": "v0.7.3-2-g26709e2",
-			"Rev": "26709e2714106fb8ad40b773b711ebce25b78914"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/GeertJohan/go.rice",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/cenkalti/backoff",
-			"Rev": "9831e1e25c874e0a0601b6dc43641071414eec7a"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/GeertJohan/go.rice/embedded",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/daaku/go.zipexe",
-			"Rev": "a5fe2436ffcb3236e175e5149162b41cd28bd27d"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/Sirupsen/logrus",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/dancannon/gorethink",
-			"Comment": "v0.7.1",
-			"Rev": "0fcd578dc17224eb4812abb34a472f6b72d9c62f"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/cenkalti/backoff",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/golang/protobuf/proto",
-			"Rev": "e228b1ac337584c4ce21b022312332ca6a5532ff"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/daaku/go.zipexe",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/gorilla/context",
-			"Rev": "14f550f51af52180c2eefed15e5fd18d63c0a64a"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/dancannon/gorethink",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/gorilla/mux",
-			"Rev": "e444e69cbd2e2e3e0749a2f3c717cec491552bbf"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/dancannon/gorethink/encoding",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/gorilla/securecookie",
-			"Rev": "1b0c7f6e9ab3d7f500fd7d50c7ad835ff428139b"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/dancannon/gorethink/ql2",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/gorilla/sessions",
-			"Rev": "aa5e036e6c44aec69a32eb41097001978b29ad31"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/dancannon/gorethink/types",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/kardianos/osext",
-			"Rev": "6e7f843663477789fac7c02def0d0909e969b4e5"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/golang/protobuf/proto",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "github.com/unrolled/render",
-			"Rev": "aa61028b1d32873eaa3e261a3ef0e892a153107b"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/gorilla/context",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		},
 		{
-			"ImportPath": "golang.org/x/crypto/blowfish",
-			"Comment": "null-233",
-			"Rev": "8fec09c61d5d66f460d227fd1df3473d7e015bc6"
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/gorilla/mux",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
+		},
+		{
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/gorilla/securecookie",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
+		},
+		{
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/gorilla/sessions",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
+		},
+		{
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/kardianos/osext",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
+		},
+		{
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/unrolled/render",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
+		},
+		{
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/golang.org/x/crypto/bcrypt",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
+		},
+		{
+			"ImportPath": "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/golang.org/x/crypto/blowfish",
+			"Comment": "v0.1-38-gbdbfde4",
+			"Rev": "bdbfde439d68e6668b592dcbdaafc347fc985697"
 		}
 	]
 }

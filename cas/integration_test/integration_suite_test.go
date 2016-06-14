@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/sclevine/agouti"
-	"github.com/t3hmrman/casgo/cas"
+	"github.com/jmcarbo/casgo/cas"
 	"log"
 	"net/http/httptest"
 	"testing"

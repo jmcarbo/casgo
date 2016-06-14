@@ -2,7 +2,7 @@ package cas
 
 import (
 	"fmt"
-	"github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/GeertJohan/go.rice"
+	"github.com/GeertJohan/go.rice"
 	"log"
 	"os"
 )

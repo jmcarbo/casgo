@@ -4,10 +4,10 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"errors"
-	"github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/gorilla/mux"
+	"github.com/gorilla/mux"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/t3hmrman/casgo/cas"
+	. "github.com/jmcarbo/casgo/cas"
 	"io/ioutil"
 	"net/http"
 )

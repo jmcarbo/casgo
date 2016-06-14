@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/t3hmrman/casgo/cas"
+	"github.com/jmcarbo/casgo/cas"
 	"log"
 )
 
