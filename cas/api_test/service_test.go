@@ -3,7 +3,7 @@ package api_test
 import (
   . "github.com/onsi/ginkgo"
   . "github.com/onsi/gomega"
-  . "github.com/t3hmrman/casgo/cas"
+  . "github.com/jmcarbo/casgo/cas"
   "net/http"
   "bytes"
   "encoding/json"

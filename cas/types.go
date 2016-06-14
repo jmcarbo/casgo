@@ -1,7 +1,7 @@
 package cas
 
 import (
-	r "github.com/t3hmrman/casgo/cas/Godeps/_workspace/src/github.com/dancannon/gorethink"
+	r "github.com/dancannon/gorethink"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
 	"github.com/unrolled/render"
